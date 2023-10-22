@@ -1,0 +1,17 @@
+.container {
+    background-color: #1B4F64;
+    color: #D2647A;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 90vh;
+}
+
+.btn {
+    background-color: #D2647A; 
+}
+
+.label{
+    font-size: xx-large;
+}

@@ -1,0 +1,25 @@
+.container {
+    background-color: #5F7080;
+    color: rgb(18, 85, 95);
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    width: 500px;
+    height: 400px;
+}
+
+.user {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    align-content: space-around;
+    font-size: xx-large;
+    font-style: italic;
+    font-weight: 20000;
+    color: antiquewhite;
+}
+
+.btn {
+    background-color: #D2647A; 
+}

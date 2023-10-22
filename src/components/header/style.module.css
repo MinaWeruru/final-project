@@ -1,0 +1,28 @@
+.container {
+    background-color: #D2647A;
+    color: rgb(18, 85, 95);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 90px;
+}
+
+.navbar {
+    width: 700px;
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-decoration: none;
+}
+
+.navbar :hover {
+    background: rgb(18, 85, 95);
+    color: #D2647A; 
+    font-size: 21px;
+}
+
+.btn {
+    background-color: #D2647A; 
+}
